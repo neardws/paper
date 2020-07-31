@@ -28,8 +28,16 @@
 
 - Title: Leveraging Comprehensive Control Plane Optimization to Supporting Diverse ITS Applications in SDVN
 
-#### No.5 CWSN 2020
+#### No.5 第十四届中国物联网（传感器网络）学术会议 (CWSN 2020)
 
 - Title: 车载雾计算环境中基于势博弈的分布式信道分配
 - Paper sublimission website: [https://easychair.org/conferences/submission_new?a=24871882#{fr:kAWCAvtUXklh}](https://easychair.org/conferences/submission_new?a=24871882#{fr:kAWCAvtUXklh})
-- Submitted Data: June 20, 2020
+- Submitted Date: June 20, 2020
+- Website: [https://cwsn2020.aconf.cn/](https://cwsn2020.aconf.cn/)
+- Conference Date: 2020.9.18-9.21 
+- Location: 中国敦煌
+
+#### No.6 Journal on Communications (通信学报)
+- Call for paper: [http://www.infocomm-journal.com/txxb/CN/news/news1157.shtml](http://www.infocomm-journal.com/txxb/CN/news/news1157.shtml)
+- Deadline: Sep. 15, 2020
+- Paper submission website: [http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml](http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml)
