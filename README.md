@@ -9,7 +9,7 @@
 #### No.1 IEEE ISPCE CN (EI)
 
 - Title: Design and Implementation of a Fog Computing Based Collision Warning System in VANETs
-- Call for papers: [http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html?from=groupmessage&isappinstalled=0](http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html?from=groupmessage&isappinstalled=0)
+- Call for papers: [http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html](http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html)
 - Deadline: 2018-10-14 ，已延期至2018-10-21
 - Paper submission account: [ispce_2018_paper@yahoo.com](ispce_2018_paper@yahoo.com)
 - Reward: Overall Paper Reward
@@ -36,7 +36,7 @@
 #### No.5 第十四届中国物联网（传感器网络）学术会议 (CWSN 2020)
 
 - Title: 车载雾计算环境中基于势博弈的分布式信道分配
-- Paper sublimission website: [https://easychair.org/conferences/submission_new?a=24871882#{fr:kAWCAvtUXklh}](https://easychair.org/conferences/submission_new?a=24871882#{fr:kAWCAvtUXklh})
+- Paper sublimission website: [https://easychair.org/conferences/submission_new](https://easychair.org/conferences/submission_new)
 - Submitted Date: June 20, 2020
 - Website: [https://cwsn2020.aconf.cn/](https://cwsn2020.aconf.cn/)
 - Conference Date: 2020.9.18-9.21 
