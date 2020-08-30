@@ -41,7 +41,7 @@
 - Website: [https://cwsn2020.aconf.cn/](https://cwsn2020.aconf.cn/)
 - Conference Date: 2020.9.18-9.21 
 - Location: 中国敦煌
-- Received Date: 
+- Received Date: Aug 16, 2020
 
 #### No.6 电子学报
 
