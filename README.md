@@ -1,7 +1,10 @@
 # paper
 
-### Latex
-* Software: TexPad 1.8.4
+### Software
+
+* Latex: TexPad 1.8.4
+* Office: Office 365
+* OS: macOS Big Sur
 
 #### No.1 IEEE ISPCE CN (EI)
 
