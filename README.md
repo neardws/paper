@@ -5,17 +5,18 @@
 
 #### No.1 IEEE ISPCE CN (EI)
 
-* Title: Design and Implementation of a Fog Computing Based Collision Warning System in VANETs
-* Call for papers: [http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html?from=groupmessage&isappinstalled=0](http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html?from=groupmessage&isappinstalled=0)
-* Deadline: 2018-10-14 ，已延期至2018-10-21
-* Paper submission account: [ispce_2018_paper@yahoo.com](ispce_2018_paper@yahoo.com)
-* Reward: Overall Paper Reward
+- Title: Design and Implementation of a Fog Computing Based Collision Warning System in VANETs
+- Call for papers: [http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html?from=groupmessage&isappinstalled=0](http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html?from=groupmessage&isappinstalled=0)
+- Deadline: 2018-10-14 ，已延期至2018-10-21
+- Paper submission account: [ispce_2018_paper@yahoo.com](ispce_2018_paper@yahoo.com)
+- Reward: Overall Paper Reward
+- Received Date: Nov 23, 2018
 
 #### No.2 IEEE Communication Magazine (SCI Rank 1)
 
 - Title: A Hierarchical Architecture for the Future Internet of Vehicles
-- Received Date: July 2019
 - Paper submission website: <https://mc.manuscriptcentral.com/commag-ieee>
+- Received Date: July 19, 2019
 
 #### No.3 ACM/Springer Mobile Networks & Applications (MONET) (SCI Rank 3)
 
@@ -23,6 +24,7 @@
 - Call for papers: SPECIAL ISSUE ON Machine Learning and Intelligent Communications
 - Paper submission website: http://www.editorialmanager.com/mone
 - Submitted Date: Oct 12, 2019
+- Received Date: Dec 31, 2019
 
 #### No.4 Journal
 
@@ -36,8 +38,12 @@
 - Website: [https://cwsn2020.aconf.cn/](https://cwsn2020.aconf.cn/)
 - Conference Date: 2020.9.18-9.21 
 - Location: 中国敦煌
+- Received Date: 
 
-#### No.6 Journal on Communications (通信学报)
-- Call for paper: [http://www.infocomm-journal.com/txxb/CN/news/news1157.shtml](http://www.infocomm-journal.com/txxb/CN/news/news1157.shtml)
-- Deadline: Sep. 15, 2020
-- Paper submission website: [http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml](http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml)
+#### No.6 电子学报
+
+- Title: Potential Game based Channel Allocation for Vehicular Edge Computing (基于势博弈的车载边缘计算信道分配方法)
+- Call for paper: [website](https://mp.weixin.qq.com/s?__biz=MzU4MzcxNTcyMA==&mid=2247484329&idx=1&sn=7656582c1a562db5deb9eae635f6ccce&chksm=fda59d4ecad214586613960a1481a5b57ed88ce25ecb26b6556ae5721badc143e3e19e937ab1&mpshare=1&scene=1&srcid=0818gFzBiYeaNDwVB1CvKecz&sharer_sharetime=1597745706482&sharer_shareid=05edcc03d74e1a998b02763d01f3c882#rd)
+)
+- Deadline: Aug 30, 2020
+- Paper submission website: [http://www.ejournal.org.cn/](http://www.ejournal.org.cn/)
