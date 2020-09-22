@@ -29,11 +29,7 @@
 - Submitted Date: Oct 12, 2019
 - Received Date: Dec 31, 2019
 
-#### No.4 Journal
-
-- Title: Leveraging Comprehensive Control Plane Optimization to Supporting Diverse ITS Applications in SDVN
-
-#### No.5 第十四届中国物联网（传感器网络）学术会议 (CWSN 2020)
+#### No.4 第十四届中国物联网（传感器网络）学术会议 (CWSN 2020)
 
 - Title: 车载雾计算环境中基于势博弈的分布式信道分配
 - Paper sublimission website: [https://easychair.org/conferences/submission_new](https://easychair.org/conferences/submission_new)
@@ -43,9 +39,14 @@
 - Location: 中国敦煌
 - Received Date: Aug 16, 2020
 
-#### No.6 电子学报
+#### No.5 电子学报
 
 - Title: Potential Game based Channel Allocation for Vehicular Edge Computing (基于势博弈的车载边缘计算信道分配方法)
 - Call for paper: [CFP](https://mp.weixin.qq.com/s?__biz=MzU4MzcxNTcyMA==&mid=2247484329&idx=1&sn=7656582c1a562db5deb9eae635f6ccce&chksm=fda59d4ecad214586613960a1481a5b57ed88ce25ecb26b6556ae5721badc143e3e19e937ab1&mpshare=1&scene=1&srcid=0818gFzBiYeaNDwVB1CvKecz&sharer_sharetime=1597745706482&sharer_shareid=05edcc03d74e1a998b02763d01f3c882#rd)
 - Deadline: Aug 30, 2020
 - Paper submission website: [http://www.ejournal.org.cn/](http://www.ejournal.org.cn/)
+
+#### No.6 INFOCOM 2022: International Conference on Computer Communications
+
+- Title: Leveraging Comprehensive Control Plane Optimization to Supporting Diverse ITS Applications in SDVN
+- Deadline: about 2021-08-25
