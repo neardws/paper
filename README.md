@@ -39,7 +39,7 @@
 - Location: 中国敦煌
 - Received Date: Aug 16, 2020
 
-#### No.5 电子学报
+#### No.5 电子学报 (CCF A)
 
 - Title: Potential Game based Channel Allocation for Vehicular Edge Computing (基于势博弈的车载边缘计算信道分配方法)
 - Call for paper: [CFP](https://mp.weixin.qq.com/s?__biz=MzU4MzcxNTcyMA==&mid=2247484329&idx=1&sn=7656582c1a562db5deb9eae635f6ccce&chksm=fda59d4ecad214586613960a1481a5b57ed88ce25ecb26b6556ae5721badc143e3e19e937ab1&mpshare=1&scene=1&srcid=0818gFzBiYeaNDwVB1CvKecz&sharer_sharetime=1597745706482&sharer_shareid=05edcc03d74e1a998b02763d01f3c882#rd)
