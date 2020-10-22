@@ -6,7 +6,7 @@
 * Office: Office 365
 * OS: macOS Big Sur
 
-#### No.1 IEEE ISPCE CN (EI)
+#### No.1 IEEE International Symposium on Product Compliance Engineering-Asia (EI)
 
 - Title: Design and Implementation of a Fog Computing Based Collision Warning System in VANETs
 - Call for papers: [http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html](http://www.dl2link.com/ISPCE-CN2018/call_for_papers.html)
